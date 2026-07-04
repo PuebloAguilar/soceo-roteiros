@@ -1,0 +1,4 @@
+interface:
+  display_name: "SOCEO Roteiros YouTube"
+  short_description: "Roteiros persuasivos para YouTube"
+  default_prompt: "Use $soceo-roteiros-youtube para escrever um roteiro de YouTube com angulo, promessa, prova e CTA."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SOCEO Roteiros Anuncios"
+  short_description: "Copy e roteiros para anuncios"
+  default_prompt: "Use $soceo-roteiros-anuncios para criar anuncios com hook, angulo, prova, objecoes e CTA."

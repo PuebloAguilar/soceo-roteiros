@@ -1,0 +1,4 @@
+interface:
+  display_name: "SOCEO Roteiros Reels"
+  short_description: "Roteiros de Reels com copy de venda"
+  default_prompt: "Use $soceo-roteiros-reels para escrever um roteiro de Reels com gancho, cenas, palavras de poder e CTA de DM."
